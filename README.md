@@ -11,7 +11,7 @@ Major_Code.ipynb # Main Jupyter Notebook README.md # Project Overview app.py # G
 
 🛠️ How to Run
 Clone this repo
-git clone https://github.com/Deekshitharachakatla/Astrocytoma-XAI-Analyzer.git`
+git clone https://github.com/B-Rushali
 Install dependencies
 pip install -r requirements.txt`
 Launch Gradio app
